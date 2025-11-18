@@ -51,7 +51,7 @@
     "ember-source": "~3.5.0",
     "eslint-plugin-ember": "^5.2.0",
     "guidemaker": "0.0.8",
-    "guidemaker-ember-template": "0.0.3",
+    "guidemaker-ember-template": "4.2.0",
     "loader.js": "^4.7.0",
     "prember": "^0.4.0",
     "qunit-dom": "^0.8.0"
